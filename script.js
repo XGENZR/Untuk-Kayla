@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Aku Naufal, pada hari ini Minggu, 12 Mei 2024 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 16 ya keii!!</b>", " ", "Kepada Kayla, semoga kamu panjang umur, dan bahagia selalu yaa. Aamiin. Sekian surat pernyataan dari aku", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Naufal, Teman Masa Depan Kamu :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Aku Naufal, pada hari ini Minggu, 12 Mei 2024 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 16 ya keii!!</b>", " ", "Kepada Adnindita Sozili, semoga kamu panjang umur, dan bahagia selalu yaa. Aamiin. Sekian surat pernyataan dari aku", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Naufal, Teman Masa Depan Kamu :)"],
   startDelay: 4000,
-  speed: 85,
+  speed: 95,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii Keii!!", "I really like your name btw!", " ", "Happy birthday to you!! Yeee! Many many happy blah...", "Semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti lagi sama mama kamu, dan semoga makin banyak yang sayang sama kamu.",  "Semoga kamu bisa lupain semua hal buruk dari masa lalu kamu, inget yaa! kamu pantes buat bahagia, aku akan selalu ada buat kamu.", " ", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", " ", "I Loved You."],
+  strings: ["Haii Keii!!", "I really like your name btw!", " ", "Happy birthday to you!! Yeee! Many many happy blah...", "Semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti lagi sama mama kamu, dan semoga makin banyak yang sayang sama kamu.",  "Semoga kamu bisa lupain semua hal buruk dari masa lalu kamu, inget yaa! kamu pantes buat bahagia, aku akan selalu ada buat kamu.", " ", "Sebelumnya aku mau jujur sama kamu, aku rasa aku suka sama kamu.", "Tapi... Eh lupain aja dehh hehehe", " ", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", " ", "I Loved You."],
   startDelay: 2000,
   speed: 85,
   waitUntilVisible: true
